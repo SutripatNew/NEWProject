@@ -1,0 +1,41 @@
+TransactionID,OrderDate,CustomerName,Region,Product,Quantity,UnitPrice,Discount,TotalAmount,PaymentMethod,Status
+TX001,2026-01-01,Somchai,North,Laptop,2,25000,10,45000,Credit Card,Completed
+TX002,01/02/2026,Suda,South,Mouse,5,500,,2500,Cash,completed
+TX003,,Anan,East,Keyboard,3,800,5,2280,Transfer,Pending
+TX004,2026-01-04,Mali,West,Monitor,,4500,0,4500,Credit Card,Completed
+TX005,2026/01/05,,North,Laptop,1,25000,15,21250,,Completed
+TX006,2026-01-06,Krit,,Mouse,10,500,0,5000,Cash,
+TX007,2026-01-07,Nok,East,Keyboard,abc,800,5,?,Transfer,Pending
+TX008,2026-01-08,Somchai,North,Laptop,2,25000,10,45000,Credit Card,Completed
+TX009,2026-01-09,Suda,South,,4,1200,5,4560,Cash,Completed
+TX010,2026-01-10,Anan,East,Monitor,2,,0,9000,Transfer,Completed
+TX011,2026-01-11,Mali,West,Mouse,3,500,5,1425,,Completed
+TX012,2026-01-12,Krit,North,Laptop,1,25000,0,25000,Credit Card,Cancelled
+TX013,2026-01-13,Nok,East,Keyboard,2,800,,1600,Cash,Pending
+TX014,13-01-2026,Somchai,North,Monitor,1,4500,5,4275,Transfer,Completed
+TX015,2026-01-15,Suda,South,Mouse,,500,0,0,Credit Card,Completed
+TX016,2026-01-16,,West,Laptop,3,25000,10,67500,Cash,Completed
+TX017,2026-01-17,Anan,East,Keyboard,2,800,5,1520,Transfer,
+TX018,2026-01-18,Mali,West,Monitor,1,4500,,4500,Credit Card,Completed
+TX019,2026-01-19,Krit,North,Laptop,1,25000,20,20000,Cash,Completed
+TX020,2026-01-20,Nok,East,Mouse,5,500,0,2500,Transfer,completed
+TX021,2026-01-21,Somchai,North,Keyboard,2,800,5,1520,Credit Card,Completed
+TX022,2026-01-22,Suda,South,Monitor,1,4500,0,4500,Cash,Pending
+TX023,2026-01-23,Anan,East,Laptop,2,25000,abc,50000,Transfer,Completed
+TX024,2026-01-24,Mali,West,Mouse,3,500,5,1425,Credit Card,Completed
+TX025,,Krit,North,Keyboard,2,800,0,1600,Cash,Cancelled
+TX026,2026-01-26,Nok,East,Monitor,1,4500,5,4275,,Completed
+TX027,2026-01-27,Somchai,North,Laptop,1,25000,0,25000,Credit Card,Completed
+TX028,2026-01-28,Suda,South,Mouse,4,,0,2000,Cash,Completed
+TX029,2026-01-29,Anan,East,Keyboard,2,800,5,1520,Transfer,Pending
+TX030,2026-01-30,Mali,West,Laptop,1,25000,10,22500,Credit Card,Completed
+TX031,2026-01-31,Krit,North,Monitor,1,4500,0,4500,Cash,Completed
+TX032,2026-02-01,Nok,East,Mouse,3,500,5,1425,Transfer,
+TX033,2026-02-02,Somchai,,Keyboard,2,800,0,1600,Credit Card,Completed
+TX034,2026-02-03,Suda,South,Laptop,1,25000,5,23750,Cash,Completed
+TX035,2026-02-04,Anan,East,Monitor,,4500,0,4500,Transfer,Completed
+TX036,2026-02-05,Mali,West,Mouse,2,500,5,950,Credit Card,completed
+TX037,2026-02-06,Krit,North,Keyboard,2,800,0,,Cash,Completed
+TX038,2026-02-07,Nok,East,Laptop,1,25000,10,22500,Transfer,Completed
+TX039,2026-02-08,Somchai,North,Monitor,1,4500,0,4500,Credit Card,
+TX040,2026-02-09,Suda,South,Mouse,5,500,5,2375,Cash,Completed
